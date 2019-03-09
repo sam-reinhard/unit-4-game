@@ -1,0 +1,69 @@
+body {
+    background-image: url("../images/amatista-amethyst-beautiful-1121123.jpg");
+    background-size: 100%;
+}
+
+/* Page Title */
+h1 {
+    font-size: 40px;
+    color: white;
+    padding: 5px;
+}
+
+#title {
+    background-color:#5c9dff;
+    width: 305px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+/* Instructions */
+
+p {
+    color: white;
+}
+
+#instructions {
+    background-color: #5c9dff;
+    width: 600px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* Scoreboard */
+
+#yourGoal {
+    background-color: #5c9dff;
+    border-radius: 5px;
+    height: 200px;
+    width: 290px;
+    float: left;
+    color: #5c9dff;
+    margin: 5px;
+    padding: 5px;
+}
+
+/* Wins and Losses Counter */
+
+#winsAndLosses {
+    float: left;
+    height: 200px;
+    width: 290px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #5c9dff;
+}
+
+/* Crystal Buttons */
+
+input {
+    height: 150px;
+    width: 150px;
+    margin: 5px 0px;
+}
+
+#crystal1 {
+    margin: 5px 0px 5px 5px;
+}
